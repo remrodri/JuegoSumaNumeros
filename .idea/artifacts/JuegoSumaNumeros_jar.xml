@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JuegoSumaNumeros:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JuegoSumaNumeros_jar</output-path>
+    <root id="archive" name="JuegoSumaNumeros.jar">
+      <element id="module-output" name="JuegoSumaNumeros" />
+    </root>
+  </artifact>
+</component>
